@@ -1,0 +1,35 @@
+== Equal to
+
+!= Not equal to
+
+< Less than
+
+> Greater than
+
+<= Less than or equal to
+
+>= Greater than or equal to
+
+The == operator (equal to) asks whether two values are the same as each other.
+
+The = operator (assignment) puts the value on the right into the variable on the left.
+
+True and True True
+
+True and False False
+
+False and True False
+
+False and False False
+
+True or True True
+
+True or False True
+
+False or True True
+
+False or False False
+
+not True False
+
+not False True
